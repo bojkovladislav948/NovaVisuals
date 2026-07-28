@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="novavisuals"
+version="1.0.0"
+displayName="NovaVisuals"
+description='''
+NovaVisuals Client
+'''
